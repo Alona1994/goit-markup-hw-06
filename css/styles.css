@@ -1187,3 +1187,94 @@ margin-left: 16px;
  .color {
   color: #404bbf;
  }
+
+
+ /* <!-------------------------------------------------------------
+                               PROJECT                                
+  -------------------------------------------------------------> */
+
+
+  .sign {
+    background-color: #121212;
+}
+.sign-title {
+  color: #FFF;
+font-family: DM Sans;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 54px; /* 112.5% */
+letter-spacing: -1.92px;
+}
+.sign-text {
+  color: #FFF;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+letter-spacing: -0.32px;
+}
+
+.sign-label {
+}
+.sign-blok {
+}
+.sign-div-input {
+  
+
+}
+.sign-input {
+  color: #FFF;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+padding: 21px 340px 19px 18px;
+border-radius: 12px;
+background: var(--white, #FFF);
+ }
+.div-sign-textarea {
+  border-radius: 12px;
+background: var(--white, #FFF);
+}
+.sign-textarea {
+  color: #FFF;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+ width: 100%;
+   height: 120px;
+}
+.sign-send {
+  display: inline-flex;
+padding: 16px 216px;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+background: var(--white, #FFF);
+color: var(--black, #121212);
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 155.556% */
+text-transform: uppercase;
+}
+.sign-text-end {
+}
+.sign-link {
+}
+
+
+
+
+
+
+
+
+
+
